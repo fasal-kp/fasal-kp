@@ -10,7 +10,7 @@
   <a href="https://github.com/fasal-kp">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
-  <a href="[https://www.youtube.com/channel/UCzvRaprYPhvAplMK36Gu0kw](https://www.youtube.com/@fasal-kp)">
+  <a href="https://www.youtube.com/@fasal-kp">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
    <a href="https://www.instagram.com/__.fasal">
